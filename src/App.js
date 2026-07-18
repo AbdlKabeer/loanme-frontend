@@ -73,9 +73,8 @@ const App = () => {
   const config = {
     first_name:"test",
     last_name:"test",
-    email:"olanrewaju@prembly.com",
+    email:"[EMAIL_ADDRESS]",
     merchant_key:"sandbox_pk_AlHudn4HobKuJvW385cLZbD89Uils2ckqvuPXBs6AYKlCqEW9RC3z",
-    // merchant_key:"live_pk_rPBlewtLxBnWDU6vYYdDNY8fD1UiiWmqGcllA3h",
     user_ref:"98765456yhshhshwuwuww",
     // is_test:false,  //set this to through for a test
     config_id:"e34055b2-06aa-4001-9930-4c833e5b2163", //optional  1e4de83c-5b2c-4760-a993-eb2970a3630c
